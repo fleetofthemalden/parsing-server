@@ -1,0 +1,14 @@
+{
+  "name": "companionserver",
+  "version": "1.0.0",
+  "description": "server to exchange json and xml server requests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dminnick",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^2.1.4"
+  }
+}
